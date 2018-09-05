@@ -1,0 +1,1 @@
+The following code was taken from Neal Stephenson's novel, Cryptonomicon. Since I couldn't find reliable source code for it, I decided to transcribe it and make a few changes of my own, but found Ian Goldberg's verbose transcription in an old email archive. 
